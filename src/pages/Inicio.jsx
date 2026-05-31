@@ -7,8 +7,8 @@ function Inicio() {
                 <h1>Sistema Web de Semilleros de Investigación</h1>
 
                 <p>
-                    Plataforma diseñada para apoyar la gestión de semilleros, proyectos,
-                    estudiantes y eventos académicos dentro de la institución.
+                    Plataforma diseñada para apoyar la gestión académica de semilleros,
+                    proyectos, estudiantes y eventos dentro de la institución.
                 </p>
 
                 <div className="hero-buttons">
